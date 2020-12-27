@@ -10179,6 +10179,7 @@ header.masthead .masthead-heading {
   opacity: 0;
   transition: opacity ease-in-out .25s;
 }
+
 #portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content {
   font-size: 1.25rem;
   color: white;
@@ -10186,6 +10187,8 @@ header.masthead .masthead-heading {
 #portfolio .portfolio-item .portfolio-link:hover .portfolio-hover {
   opacity: 1;
 }
+
+ 
 #portfolio .portfolio-item .portfolio-caption {
   padding: 1.5rem;
   text-align: center;
@@ -10240,7 +10243,7 @@ header.masthead .masthead-heading {
 }
 .portfolio-modal .close-modal:hover {
   opacity: 0.3;
-}
+} */
 
 .timeline {
   position: relative;
